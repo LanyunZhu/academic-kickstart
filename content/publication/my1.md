@@ -49,9 +49,9 @@ url_GitHub = ""
 
 # Links -- Custom Option
 # You can make multiple custom links
-[[url_custom]]
-name = "Learning Materials"
-url = "http://rfun.library.duke.edu/intro2r"
+[url_custom]
+name = "arxiv"
+url = "https://arxiv.org/abs/2004.12679"
 
 [[url_custom]]
 name = "GitHub Code"
