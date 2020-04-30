@@ -4,6 +4,8 @@
 
 date = "2016-04-20T00:00:00"
 draft = false
+active = true
+headless = true
 
 title = "Recent Workshops"
 subtitle = ""
