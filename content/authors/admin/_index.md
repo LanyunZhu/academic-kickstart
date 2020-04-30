@@ -65,6 +65,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a senior student in Beihang University, Beijing, China. I will graduate in June, 2020 and join the Image and Video Processing Lab led by Dr. Shiping Zhu to be a master student. Meanwhile, I'm also a research intern in Megvii Research Video Team since September 2019, where my mentor is Dr. Zhikang Liu and my leader is Dr. Chi Zhang.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests are mainy focused on deep learning and computer vision, especially on image segmentation. Recently, I begin to explore the area of 3D vision, i.e. monocular 3D detection and point cloud segmentation. I'm also committed to the industrial applications of computer vision technology.
+
+I'm interested in persuing the Ph.D. degree after I get the master degree.
