@@ -4,8 +4,7 @@ headless = true  # This file represents a page section.
 active = true
 weight = 50
 # ... Put Your Section Options Here (title etc.) ...
-title = "Experience"
-subtitle = ""
+
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
