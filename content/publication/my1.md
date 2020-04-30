@@ -1,7 +1,7 @@
 +++
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["John Little"]
+authors = ["Lanyun Zhu", "Shiping Zhu", "Xuanyi Liu", "Li Luo"]
 
 # Publication type.
 # Legend:
@@ -12,19 +12,18 @@ authors = ["John Little"]
 # 4 = Research Data Management
 # 5 = Mapping & GIS
 # 6 = Data Visualization
-publication_types = ["1"]
+publication_types = ["3"]
 
 # titles
-title = "Introduction to R: Data Transformations and the Tidyverse"
+title = "Distance Guided Channel Weighting for Semantic Segmentation"
 
 # Publication name and optional abbreviated version.
 publication = ""
 publication_short = ""
-date = "2018-09-04"
+date = "2020-04-01"
 
 # Abstract and optional shortened version.
-abstract = "A gentle introduction to the basics of the R statistical programming language using the RStudio development environment. Learn about managing your R projects, data types, variable assignments, data cleaning and visualization. No previous experience required."
-abstract_short = "Modern R using the tidyverse method"
+abstract = "Recent works have achieved great success in improving the performance of multiple computer vision tasks by capturing features with a high channel number utilizing deep neural networks. However, many channels of extracted features are not discriminative and contain a lot of redundant information. In this paper, we address above issue by introducing the Distance Guided Channel Weighting (DGCW) Module. The DGCW module is constructed in a pixel-wise context extraction manner, which enhances the discriminativeness of features by weighting different channels of each pixel’s feature vector when modeling its relationship with other pixels. It can make full use of the high-discriminative information while ignore the low-discriminative information containing in feature maps, as well as capture the long-range dependencies. Furthermore, by incorporating the DGCW module with a baseline segmentation network, we propose the Distance Guided Channel Weighting Network (DGCWNet). We conduct extensive experiments to demonstrate the effectiveness of DGCWNet. In particular, it achieves 81.6% mIoU on Cityscapes with only fine annotated data for training, and also gains satisfactory performance on another two semantic segmentation datasets, i.e. Pascal Context and ADE20K. "
 
 # Does this page contain LaTeX math? (true/false)
 math = false
@@ -39,13 +38,14 @@ image_preview = ""
 selected = true
 
 # Links (optional)
-url_code = ""
-url_dataset = "https://github.com/data-and-visualization/Intro2R/tree/master/data"
+url_code = "https://github.com/LanyunZhu/DGCWNet"
+url_dataset = ""
+url_arxiv = "https://github.com/LanyunZhu/DGCWNet"
 url_pdf = ""
 url_project = ""
-url_slides = "https://github.com/data-and-visualization/Intro2R/tree/master/slides"
-url_video = "https://library.capture.duke.edu/Panopto/Pages/Viewer.aspx?id=651c273a-f1b0-485b-bf47-6bd61e304020"
-url_GitHub = "https://github.com/data-and-visualization/Intro2R"
+url_slides = ""
+url_video = ""
+url_GitHub = ""
 
 # Links -- Custom Option
 # You can make multiple custom links
