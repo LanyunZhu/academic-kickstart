@@ -65,10 +65,5 @@ url = "http://library.duke.edu/data/news/past-workshops#r"
 name = "Registration"
 url = "https://duke.libcal.com/event/4337268"
 
-[header]
-# image = "headers/bubbles-wide.jpg"
-# caption = "Intro2R :smile:"
-image = "headers/data_sci.png"
-caption = "Image credit: [Data Science](https://commons.wikimedia.org/wiki/File:Data_visualization_process_v1.png)"
 
 +++
