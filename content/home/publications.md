@@ -26,7 +26,7 @@ subtitle = ""
   # Filter posts by a taxonomy term.
   # [content.filters]
   [my]
-    title = "hahahah"
+    title = "haha"
     tag = "haha"
     category = ""
     publication_type = ""
@@ -39,7 +39,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 1
+  view = 3
   
 [design.background]
   # Apply a background color, gradient, or image.
