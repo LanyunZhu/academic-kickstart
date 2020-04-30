@@ -21,7 +21,7 @@ date_format = "Jan 2006"
   date_start = "2016-09-01"
   date_end = "2020-06-01"
   description = """
-  *Award: First prize of Fenfru Cup (Top 3%)
+  * Award: First prize of Fenfru Cup (Top 3%)
   """
 [[experience]]
   title = "Beihang University"
@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   date_start = "2020-09-01"
   date_end = "2022-01-01"
   description = """
-  *Lab: Image and Video Processing lab.
-  *Tutor: Dr.Shiping Zhu
+  * Lab: Image and Video Processing lab.
+  * Tutor: Dr.Shiping Zhu
   """
 +++
