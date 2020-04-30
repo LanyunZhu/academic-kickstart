@@ -24,8 +24,7 @@ subtitle = ""
   order = "desc"
 
   # Filter posts by a taxonomy term.
-  # [content.filters]
-  [my]
+  [content.filters]
     title = "hahahah"
     tag = "haha"
     category = ""
