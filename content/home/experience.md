@@ -1,7 +1,8 @@
 +++
 widget = "experience"
 headless = true  # This file represents a page section.
-
+active = true
+weight = 50
 # ... Put Your Section Options Here (title etc.) ...
 title = "Experience"
 # Date format for experience
