@@ -1,4 +1,5 @@
 +++
+title = "Experimence"
 widget = "experience"
 headless = true  # This file represents a page section.
 
@@ -14,17 +15,15 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Intern"
+  company = "Megvii"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "Beijing, China"
+  date_start = "2019-09"
   date_end = ""
   description = """
   Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  * Research of computer vision.
+  * Applications of computer vision on traffic scene.
   """
 +++
