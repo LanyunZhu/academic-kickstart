@@ -24,6 +24,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
+
   * Research of computer vision.
   * Applications of computer vision on traffic scene.
   """
