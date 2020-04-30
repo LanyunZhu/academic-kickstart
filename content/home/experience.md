@@ -29,6 +29,5 @@ date_format = "Jan 2006"
   * Research on computer vision theory
   * Engineering applications of computer vision
 
-  """
 
 +++
