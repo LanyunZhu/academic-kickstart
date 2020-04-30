@@ -7,7 +7,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 190  # Order that this section will appear.
 
-title = "Recent Publications"
+title = "Publications"
 subtitle = ""
 
 [content]
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 1
+  count = 0
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -25,10 +25,11 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
+    title = "hahahah"
     tag = "haha"
     category = ""
     publication_type = ""
-    author = ""
+    author = "Lanyun Zhu"
     exclude_featured = false
   
 [design]
