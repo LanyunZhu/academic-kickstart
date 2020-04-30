@@ -28,3 +28,4 @@ date_format = "Jan 2006"
   Responsibilities include:
   * Research on computer vision theory
   * Engineering applications of computer vision
++++
