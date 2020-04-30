@@ -3,7 +3,7 @@ widget = "experience"
 headless = true  # This file represents a page section.
 active = true
 # ... Put Your Section Options Here (title etc.) ...
-
+title = "Experience"
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
