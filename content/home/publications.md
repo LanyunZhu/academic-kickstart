@@ -1,23 +1,36 @@
 +++
-# Recent Publications widget.
-# Note: this widget will only display if `content/publication/` contains workshops.
+widget = "pages"  # Use the Pages widget
+headless = true  # This file represents a page section.
+active=true
+# ... Put Your Section Options Here (title etc.) ...
 
-date = "2016-04-20T00:00:00"
-draft = false
-active = true
-headless = true
+[content]
+  # Page type to display. E.g. post, talk, or publication.
+  page_type = "post"
+  
+  # Choose how much pages you would like to display (0 = all pages)
+  count = 5
+  
+  # Choose how many pages you would like to offset by
+  offset = 0
 
-title = "Recent Workshops"
-subtitle = ""
-widget = "publications"
+  # Page order. Descending (desc) or ascending (asc) date.
+  order = "desc"
 
-# Order that this section will appear in.
-weight = 20
-
-# Number of publications to list.
-count = 10
-
-# Show publication details (such as abstract)? (true/false)
-detailed_list = false
-
-+++
+  # Filter posts by a taxonomy term.
+  [content.filters]
+    tag = ""
+    category = ""
+    publication_type = ""
+    exclude_featured = false
+    exclude_past = false
+    exclude_future = false
+    
+[design]
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   4 = Citation (publication only)
+  view = 2
+  +++
