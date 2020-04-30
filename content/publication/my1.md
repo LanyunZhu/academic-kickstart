@@ -1,5 +1,4 @@
 ---
 title: hahahah
-authors:
-  - Lanyun Zhu
+authors: Lanyun Zhu
 ---
