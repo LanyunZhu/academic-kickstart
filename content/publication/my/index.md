@@ -1,4 +1,4 @@
 ---
-title = "hahahah"
-publication_types = "3"
+title: hahahah
+publication_types: 3
 ---
