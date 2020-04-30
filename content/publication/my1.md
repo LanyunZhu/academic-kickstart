@@ -49,7 +49,7 @@ url_GitHub = ""
 
 # Links -- Custom Option
 # You can make multiple custom links
-[url_custom]
+[url_arxiv]
 name = "arxiv"
 url = "https://arxiv.org/abs/2004.12679"
 
