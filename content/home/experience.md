@@ -1,7 +1,6 @@
 +++
 widget = "experience"
 headless = true  # This file represents a page section.
-active = True
 
 # ... Put Your Section Options Here (title etc.) ...
 title = "Experience"
