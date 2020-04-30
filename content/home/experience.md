@@ -26,7 +26,6 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Responsibilities include:
-  
   * Research on computer vision theory
   * Engineering applications of computer vision
 
