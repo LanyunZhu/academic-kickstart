@@ -1,7 +1,7 @@
 +++
 widget = "pages"  # Use the Pages widget
 headless = true  # This file represents a page section.
-active = True
+active = true
 # ... Put Your Section Options Here (title etc.) ...
 
 [content]
