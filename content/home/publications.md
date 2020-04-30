@@ -18,7 +18,8 @@ title = "Publication"
   order = "desc"
 
   # Filter posts by a taxonomy term.
-  [content.filters]
+  # [content.filters]
+  [my1]
     tag = ""
     category = ""
     publication_type = ""
