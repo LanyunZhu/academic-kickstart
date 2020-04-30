@@ -18,7 +18,7 @@ publication_types = ["3"]
 title = "Distance Guided Channel Weighting for Semantic Segmentation"
 
 # Publication name and optional abbreviated version.
-publication = ""
+publication = "https://arxiv.org/abs/2004.12679"
 publication_short = ""
 date = "2020-04-01"
 
@@ -40,7 +40,7 @@ selected = true
 # Links (optional)
 url_code = "https://github.com/LanyunZhu/DGCWNet"
 url_dataset = ""
-url_arxiv = "https://github.com/LanyunZhu/DGCWNet"
+url_arxiv = "https://arxiv.org/abs/2004.12679"
 url_pdf = ""
 url_project = ""
 url_slides = ""
