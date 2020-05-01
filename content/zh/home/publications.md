@@ -3,7 +3,7 @@ widget = "pages"  # Use the Pages widget
 headless = true  # This file represents a page section.
 active = true
 # ... Put Your Section Options Here (title etc.) ...
-title = "publications"
+title = "论文"
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"

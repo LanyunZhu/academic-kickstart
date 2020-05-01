@@ -24,6 +24,6 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * 计算机视觉学术研究。
-  * 计算机视觉在交通场景上的落地应用。
+  * 计算机视觉技术在交通场景上的落地应用。
   """
 +++
