@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lanyun Zhu
+title: 祝澜耘
 
 # Username (this should match the folder name)
 authors:
@@ -15,7 +15,7 @@ role: 北京航空航天大学 学生
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
+兴趣爱好:
 - 图像分割
 - 3D视觉
 - 深度学习理论
