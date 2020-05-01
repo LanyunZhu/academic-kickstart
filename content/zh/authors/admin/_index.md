@@ -4,21 +4,21 @@ title: Lanyun Zhu
 
 # Username (this should match the folder name)
 authors:
-- admin
+- 祝澜耘
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Student at Beihang University
+role: 北京航空航天大学 学生
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Image Segmentation
-- 3D Vision
-- Deep Learning Theory
+研究兴趣:
+- 图像分割
+- 3D视觉
+- 深度学习理论
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -48,10 +48,19 @@ email: "zhulanyun@buaa.edu.cn"
 user_groups:
 - Researchers
 - Visitors
+我是北京航空航天大学的一名大四学生。我即将于2020年6月毕业，随后在9月加入到北航图像与视频处理实验室，成为一名研究生。同时，自2019年9月起，我还是旷视科技研究院视频组的一名实习研究员，在哪里我的导师是刘志康博士，我的直系领导是张弛博士。
+
+我的研究兴趣主要集中在深度学习与计算机视觉，尤其是想分割领域。醉经，我也开始探索3D视觉的相关问题，如3D单目检测和点云分割。我同时也致力于计算机视觉技术在实际工业应用场景中的落地。
+
+我计划在获得硕士学位后继续攻读博士学位
 ---
 
-I'm a senior student in Beihang University, Beijing, China. I will graduate in June, 2020 and join the Image and Video Processing Lab led by Dr. Shiping Zhu to be a master student. Meanwhile, I'm also a research intern in Megvii Research Video Team since September 2019, where my mentor is Dr. Zhikang Liu and my leader is Dr. Chi Zhang.
 
-My research interests are mainy focused on deep learning and computer vision, especially on image segmentation. Recently, I begin to explore the area of 3D vision, i.e. monocular 3D detection and point cloud segmentation. I'm also committed to the industrial applications of computer vision technology.
 
-I'm interested in persuing the Ph.D. degree after I get the master degree.
+
+
+
+
+
+
+
