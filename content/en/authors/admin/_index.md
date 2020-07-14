@@ -50,7 +50,7 @@ user_groups:
 - Visitors
 ---
 
-I'm a senior student in Beihang University, Beijing, China. I will graduate in June, 2020 and join the Image and Video Processing Lab led by Dr. Shiping Zhu to be a master student. Meanwhile, I'm also a research intern in Sensetime since June 2020,  where my mentor is Mr. Deyi Ji. Before that, I was a research intern in Megvii Research Video Team from September 2019 to May 2020, where my mentor was Dr. Zhikang Liu and my leader was Dr. Chi Zhang.
+I'm a master student advised by Dr. Shiping Zhu in Beihang University, Beijing, China. I got the bachelor's degree in June, 2020 from Behang Univeisty. Meanwhile, I'm also a research intern in Sensetime since June 2020, where my mentor is Mr. Deyi Ji. Before that, I was a research intern in Megvii Research Video Team from September 2019 to May 2020, where my mentor was Dr. Zhikang Liu and my leader was Dr. Chi Zhang.
 
 My research interests are mainy focused on deep learning and computer vision, especially on image segmentation. Recently, I begin to explore the area of 3D vision. I'm also committed to the industrial applications of computer vision technology.
 
