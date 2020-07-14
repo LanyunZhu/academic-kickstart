@@ -15,16 +15,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Research Intern"
-  company = "Megvii"
+  company = "Sensetime"
   company_url = ""
   location = "Beijing, China"
-  date_start = "2019-09-01"
-  date_end = "2020-05-01"
+  date_start = "2020-06-01"
+  date_end = ""
   description = """
   Responsibilities include:
   
-  * Research on computer vision.
-  * Industrial applications of computer vision on traffic scenes.
+  * Research on Image segmentation.
   """
   
  [[experience]]
