@@ -16,11 +16,23 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "实习研究员"
+  company = "商汤科技"
+  company_url = ""
+  location = "北京, 中国"
+  date_start = "2020-06-01"
+  date_end = ""
+  description = """
+  工作内容:
+  
+  * 语义分割学术研究。
+  """
+[[experience]]
+  title = "实习研究员"
   company = "旷视科技"
   company_url = ""
   location = "北京, 中国"
   date_start = "2019-09-01"
-  date_end = ""
+  date_end = "2020-05-01"
   description = """
   工作内容:
   
