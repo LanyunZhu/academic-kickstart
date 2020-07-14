@@ -19,7 +19,21 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Beijing, China"
   date_start = "2019-09-01"
-  date_end = ""
+  date_end = "2020-05-01"
+  description = """
+  Responsibilities include:
+  
+  * Research on computer vision.
+  * Industrial applications of computer vision on traffic scenes.
+  """
+  
+ [[experience]]
+  title = "Research Intern"
+  company = "Megvii"
+  company_url = ""
+  location = "Beijing, China"
+  date_start = "2019-09-01"
+  date_end = "2020-05-01"
   description = """
   Responsibilities include:
   
