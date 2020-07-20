@@ -9,3 +9,6 @@ heading_font = "Lora"
 body_font = "Karla"
 nav_font = "Karla"
 mono_font = "Roboto Mono"
+
+font_size = "14"
+font_size_small = "12"
