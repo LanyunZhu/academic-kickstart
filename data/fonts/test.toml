@@ -10,5 +10,5 @@ body_font = "Karla"
 nav_font = "Karla"
 mono_font = "Roboto Mono"
 
-font_size = "14"
-font_size_small = "12"
+font_size = "6"
+font_size_small = "4"
